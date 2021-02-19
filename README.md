@@ -8,9 +8,6 @@ To use this app, access main.dart from the folder: /lib, debug and enter the fol
 ``pass:toor``
 
 
-
-
-
 Figma Project: https://www.figma.com/file/F8ip9ymaL7kaoWpcfiN3GK/finals-output?node-id=0%3A1 
 
 
